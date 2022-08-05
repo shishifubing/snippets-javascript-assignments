@@ -1,0 +1,64 @@
+.rounded-30 {
+    border-radius: 30px;
+}
+
+.rounded-30-bottom {
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.rounded-30-top {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.task {
+    padding: 20px;
+    margin: 20px;
+}
+
+.task-form {
+    min-width: 25%;
+}
+
+.btn:hover {
+    background-color: slategrey;
+}
+
+.messages {
+    height: 450px;
+    width: 450px;
+}
+
+.message {
+    max-width: 70%;
+}
+
+#task3-input {
+    min-height: 2rem;
+}
+
+#task3-output {
+    width: auto;
+    height: 100%;
+    overflow-y: scroll;
+}
+
+#task1-icon {
+    height: 15px;
+    width: auto;
+}
+
+#task1-button {
+    max-width: 100px;
+}
+
+#task3-button {
+    width: 2rem;
+    height: 2rem;
+}
+
+::placeholder {
+    color: white;
+    opacity: 1;
+}
