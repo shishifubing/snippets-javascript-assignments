@@ -1,3 +1,3 @@
 # snippets-javascript-assignments
 
-some random javascript assignments
+Some random javascript assignments
