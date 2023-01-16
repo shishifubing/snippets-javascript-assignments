@@ -1,8 +1,13 @@
 # [`snippets-javascript-assignments`][repo]
 
+<!-- shields -->
+[![shield-finished]][repo]
+
+
 <!-- internal links -->
 
 <!-- external links -->
 [repo]: https://github.com/shishifubing-com/snippets-javascript-assignments
+[shield-finished]: https://img.shields.io/badge/status-finished-informational?style=for-the-badge
 
-Some random javascript assignments
+Javascript assignments
