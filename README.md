@@ -1,9 +1,5 @@
 # [`snippets-javascript-assignments`][repo]
 
-<!-- shields -->
-[![shield-finished]][repo]
-
-
 <!-- internal links -->
 
 <!-- external links -->
