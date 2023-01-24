@@ -5,6 +5,8 @@
 [![AGPLv3.0 License][license-shield]][license-url]
 [![Status][status-finished-shield]][repo-url]
 
+<!-- description -->
+
 Javascript assignments
 
 <!-- internal links -->
