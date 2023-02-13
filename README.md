@@ -1,13 +1,13 @@
 # [`snippets-javascript-assignments`][url-repo]
 
-[![License][license-shield]][url-license]
-[![Status][status-finished-shield]][url-repo]
+[![License][shield-license]][url-license]
+[![Status][shield-status-finished]][url-repo]
 
 Javascript assignments:
 
-- [ajax]: `C5`
-- [browser_api]: `C6`
-- [objects]: `C3`
+- [ajax] - `C5`
+- [browser_api] - `C6`
+- [objects] - `C3`
 
 <!-- relative links -->
 
