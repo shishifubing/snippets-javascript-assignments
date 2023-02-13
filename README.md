@@ -1,22 +1,28 @@
-# [`snippets-javascript-assignments`][repo-url]
+# [`snippets-javascript-assignments`][url-repo]
 
-<!-- shields -->
+[![License][shield-license]][url-license]
+[![Status][shield-status-finished]][url-repo]
 
-[![AGPLv3.0 License][license-shield]][license-url]
-[![Status][status-finished-shield]][repo-url]
+Javascript assignments:
 
-<!-- description -->
+- [ajax] - `C5`
+- [browser_api] - `C6`
+- [objects] - `C3`
 
-Javascript assignments
+<!-- relative links -->
 
-<!-- internal links -->
+[ajax]: ./ajax/
+[browser_api]: ./browser_api/
+[objects]: ./objects/
+
+<!-- project links -->
+
+[url-repo]: https://github.com/shishifubing/snippets-javascript-assignments
+[url-license]: https://github.com/shishifubing/misc-personal-dotfiles/blob/main/LICENSE
 
 <!-- external links -->
 
-[repo-url]: https://github.com/shishifubing/snippets-javascript-assignments
-[status-finished-shield]: https://img.shields.io/badge/status-finished-informational?style=for-the-badge
-[license-url]: https://github.com/shishifubing/misc-personal-dotfiles/blob/main/LICENSE
-
 <!-- shield links -->
 
-[license-shield]: https://img.shields.io/github/license/shishifubing/snippets-javascript-assignments.svg?style=for-the-badge
+[shield-status-finished]: https://img.shields.io/badge/status-finished-informational?style=for-the-badge
+[shield-license]: https://img.shields.io/github/license/shishifubing/snippets-javascript-assignments.svg?style=for-the-badge
