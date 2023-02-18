@@ -1,9 +1,21 @@
+<div align="center">
+
 # [`snippets-javascript-assignments`][url-repo]
 
 [![License][shield-license]][url-license]
 [![Status][shield-status-finished]][url-repo]
 
-Javascript assignments:
+Javascript assignments for a course
+
+</div>
+
+## Features
+
+- Boring
+- Basic javascript, html, css
+- Uses github pages
+
+## Contents
 
 - [ajax] - `C5`
 - [browser_api] - `C6`
@@ -18,7 +30,7 @@ Javascript assignments:
 <!-- project links -->
 
 [url-repo]: https://github.com/shishifubing/snippets-javascript-assignments
-[url-license]: https://github.com/shishifubing/misc-personal-dotfiles/blob/main/LICENSE
+[url-license]: https://github.com/shishifubing/snippets-javascript-assignments/blob/main/LICENSE
 
 <!-- external links -->
 
