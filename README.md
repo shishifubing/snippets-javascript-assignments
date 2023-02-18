@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 # [`snippets-javascript-assignments`][url-repo]
 
@@ -13,7 +13,7 @@ Javascript assignments for a course
 
 - Boring
 - Basic javascript, html, css
-- Uses github pages
+- Uses github pages - https://shishifubing.com/snippets-javascript-assignments
 
 ## Contents
 
