@@ -9,13 +9,15 @@ Javascript assignments for a course
 
 </div>
 
-## Features
+## About The Project
+
+### Features
 
 - Boring
 - Basic javascript, html, css
 - Uses github pages - https://shishifubing.com/snippets-javascript-assignments
 
-## Contents
+### Contents
 
 - [ajax] - `C5`
 - [browser_api] - `C6`
