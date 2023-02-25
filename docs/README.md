@@ -15,13 +15,15 @@ Javascript assignments for a course
 
 - Boring
 - Basic javascript, html, css
-- Uses github pages - https://shishifubing.com/snippets-javascript-assignments
+- Uses github pages and mkdocs
+
+  https://shishifubing.com/snippets-javascript-assignments
 
 ### Contents
 
+- [objects] - `C3`
 - [ajax] - `C5`
 - [browser_api] - `C6`
-- [objects] - `C3`
 
 <!-- relative links -->
 
