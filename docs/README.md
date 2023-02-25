@@ -15,7 +15,9 @@ Javascript assignments for a course
 
 - Boring
 - Basic javascript, html, css
-- Uses github pages - https://shishifubing.com/snippets-javascript-assignments
+- Uses github pages and mkdocs
+
+  https://shishifubing.com/snippets-javascript-assignments
 
 ### Contents
 
