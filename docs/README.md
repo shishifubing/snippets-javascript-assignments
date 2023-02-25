@@ -19,9 +19,9 @@ Javascript assignments for a course
 
 ### Contents
 
+- [objects] - `C3`
 - [ajax] - `C5`
 - [browser_api] - `C6`
-- [objects] - `C3`
 
 <!-- relative links -->
 

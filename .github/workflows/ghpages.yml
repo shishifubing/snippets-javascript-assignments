@@ -1,0 +1,39 @@
+name: GHPages
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+env:
+  GH_TOKEN: ${{ secrets.CI_GITHUB_TOKEN }}
+
+jobs:
+  mkdocs:
+    name: Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Cache
+        uses: actions/cache@v3
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Deploy to GHPages
+        run: mkdocs gh-deploy --force
