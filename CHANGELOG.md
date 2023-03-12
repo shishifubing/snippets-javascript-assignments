@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.1.4 - 2023-03-12
+
+### Documentation
+
+- **workflows**: update workflow references by @tiandaoburen in [#9](https://github.com/shishifubing/snippets-javascript-assignments/pull/9)
+
+**Full Changelog**: https://github.com/shishifubing/snippets-javascript-assignments/compare/v0.1.2...v0.1.4
+
 ## v0.1.2 - 2023-03-12
 
 ### Feature
