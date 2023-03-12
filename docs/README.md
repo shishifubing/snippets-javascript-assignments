@@ -2,8 +2,8 @@
 
 # [`snippets-javascript-assignments`][url-repo]
 
-[![License][shield-license]][url-license]
-[![Status][shield-status-finished]][url-repo]
+[![License][badge-license]][url-license]
+[![Status][badge-status-finished]][url-repo]
 
 Javascript assignments for a course
 
@@ -27,9 +27,9 @@ Javascript assignments for a course
 
 <!-- relative links -->
 
-[ajax]: ./ajax/
-[browser_api]: ./browser_api/
-[objects]: ./objects/
+[ajax]: ajax/
+[browser_api]: browser_api/
+[objects]: objects/
 
 <!-- project links -->
 
@@ -38,7 +38,7 @@ Javascript assignments for a course
 
 <!-- external links -->
 
-<!-- shield links -->
+<!-- badge links -->
 
-[shield-status-finished]: https://img.shields.io/badge/status-finished-informational?style=for-the-badge
-[shield-license]: https://img.shields.io/github/license/shishifubing/snippets-javascript-assignments.svg?style=for-the-badge
+[badge-status-finished]: https://img.shields.io/badge/status-finished-informational
+[badge-license]: https://img.shields.io/github/license/shishifubing/snippets-javascript-assignments.svg
