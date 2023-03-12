@@ -1,0 +1,21 @@
+# config for https://github.com/actions/labeler
+# required workflow - https://github.com/shishifubing/ci-actions-common/blob/main/.github/workflows/labeler-pr-triage.yml
+
+#needs-triage:
+#  - "**/*"
+
+repo:
+  - "*"
+
+docs:
+  - docs/**/*
+  - "*.md"
+
+ci:
+  - .github/**/*
+
+dependencies:
+  - .github/dependabot.yml
+
+examples:
+  - examples/**/*
