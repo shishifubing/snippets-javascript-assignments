@@ -7,5 +7,6 @@ on:
       
 jobs:
   tag:
-    uses: shishifubing/ci-actions-common/.github/workflows/tag.yml@main
+    name: reuse-tag
+    uses: shishifubing/ci-actions-common/.github/workflows/reuse-tag.yml@main
     secrets: inherit
