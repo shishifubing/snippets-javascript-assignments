@@ -14,7 +14,7 @@ env:
 
 concurrency:
   cancel-in-progress: true
-  group: ${{ github.action }}-${{ github.head_ref || github.run_id }}
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
 
 jobs:
   mkdocs:
