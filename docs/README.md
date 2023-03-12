@@ -13,7 +13,6 @@ Javascript assignments for a course
 
 ### Features
 
-- Boring
 - Basic javascript, html, css
 - Uses github pages and mkdocs
 
