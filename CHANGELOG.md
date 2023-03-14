@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.1.5 - 2023-03-14
+
+<!-- Automatically generated in https://github.com/shishifubing/snippets-javascript-assignments/actions/runs/4421047409 -->
+**Full Changelog**: https://github.com/shishifubing/snippets-javascript-assignments/compare/v0.1.4...v0.1.5
+
 ## v0.1.4 - 2023-03-12
 
 ### Documentation
