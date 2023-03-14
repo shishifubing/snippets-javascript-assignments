@@ -1,0 +1,12 @@
+.card {
+    padding: 10px;
+}
+
+.form, .cards {
+    display: flex; 
+    flex-flow: row wrap;
+}
+
+.input {
+    width: 100%;
+}
